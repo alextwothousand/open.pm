@@ -1,0 +1,15 @@
+{
+	"user": "infin1tyy",
+	"repo": "open.pm",
+	"entry": "filterscripts/openpm/openpm.pwn",
+	"output": "filterscripts/openpm.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"YashasSamaga/I-ZCMD",
+		"maddinat0r/sscanf",
+		"oscar-broman/strlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
